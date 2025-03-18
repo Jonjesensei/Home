@@ -5,11 +5,13 @@
       "username": "Jonje",
       "password": "123",
       "android_id": "US7TWWFYGMLBVC59",
-      "NOTICE": "Hello user's if you any issues report ",
       "status": "active"
     },
     {
-      "NOTICE": "Hello user's if you any issues report "
+      "username": "Aizen",
+      "password": "Aizen",
+      "android_id": "US7TWWFYGMLBVC59",
+      "status": "active"
     }
   ]
 }
